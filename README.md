@@ -1,28 +1,4 @@
-> "Success is not final; failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill
 
-<br />
-<p align="center"><img src=".github/thumbnail.png?raw=true"/></p>
-
----
-
-# :pushpin: Table of Contents
-* [Made With](#rocket-made-with)
-* [Layout](#handbag-layout)
-* [Installation](#construction_worker-installation)
-* [Getting Started](#runner-getting-started)
-* [Found a bug? Missing a specific feature?](#bug-issues)
-* [Contributing](#tada-contributing)
-* [License](#closed_book-license)
-
-# :rocket: Made With
-
-* 💛 Vite
-* 💅🏻 CSS Modules
-* 🖇 React Hooks
-* 💠 TypeScript
-* 💫 React
-
-# :handbag: Layout
 
 The alphadoit layout was based on an exercise proposed by the [Rocketseat](https://www.rocketseat.com.br/) on the Ignite Bootcamp [Figma project](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate).
 # :construction_worker: Installation
